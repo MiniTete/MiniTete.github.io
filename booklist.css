@@ -1,0 +1,19 @@
+body{
+    background-color: #660B05;
+}
+nav{
+    background-color: #363636;
+    height: 50px;
+    width: 100%;
+    border-radius: 5px;
+    align-items: center;
+    display: flex;
+}
+h1{
+    font-size: 22px;
+    color: navajowhite;
+    text-decoration: none;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
