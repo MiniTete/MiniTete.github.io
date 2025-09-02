@@ -43,6 +43,16 @@ nav{
     object-fit: cover;
     margin-left: 100px;
 }
+@media (max-widht: 600px) {
+    .container{
+        flex-direction: column;
+        gap: 10px;
+    }
+    .cover{
+        width: 100%;
+        height: auto;
+    }
+}
 .story{
     color: navajowhite;
     font-size: 30px;
