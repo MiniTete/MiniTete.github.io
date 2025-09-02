@@ -17,3 +17,11 @@ h1{
     left: 50%;
     transform: translateX(-50%);
 }
+.arrow{
+    color: navajowhite;
+    font-size: 25px;
+    font-weight: 900;  
+    text-decoration: none;
+    margin-right: auto;
+    margin-left: 20px;
+}

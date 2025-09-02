@@ -45,7 +45,7 @@ nav{
 }
 @media only screen and (max-width: 600px){
     .liste{
-        font-size: 12px;
+        font-size: 18px;
         font-weight: 500;
     }
     .container{
@@ -57,7 +57,7 @@ nav{
         width: auto;
         object-fit: cover;
         margin-left: 20px;
-        height: 100px;
+        height: 200px;
     }
 }
 .story{
