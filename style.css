@@ -54,10 +54,10 @@ nav{
         gap: 10px;
     }
     .cover{
-        width: 100px;
+        width: auto;
         object-fit: cover;
         margin-left: 20px;
-        height: auto;
+        height: 100px;
     }
 }
 .story{
