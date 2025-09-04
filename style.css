@@ -3,9 +3,9 @@ body{
 }
 nav{
     background-color: #363636;
-    height: 50px;
+    height: 62.5px;
     width: 100%;
-    border-radius: 5px;
+    border-radius: 50px;
     align-items: center;
     display: flex;
 }
@@ -45,7 +45,7 @@ nav{
 }
 @media only screen and (max-width: 600px){
     .liste{
-        font-size: 15px;
+        font-size: 13px;
         font-weight: 500;
     }
     .info{
