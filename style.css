@@ -8,12 +8,14 @@ nav{
     border-radius: 50px;
     align-items: center;
     display: flex;
+    gap: 5px;
 }
 .info{
     color: navajowhite;
     text-decoration: none;
     margin-right: 20px;
     margin-left: auto;
+    display: flex;
 }
 .info:hover{
     color: #09122C;
@@ -26,6 +28,7 @@ nav{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+    display: flex;
 }
 .liste:hover{
     color: #09122C;
@@ -42,6 +45,19 @@ nav{
     height: auto;
     object-fit: cover;
     margin-left: 100px;
+}
+.support{
+    color: navajowhite;
+    text-decoration: none;
+    display: flex;
+}
+.support:hover{
+    color: #09122C;
+}
+.right{
+    margin-left: auto;
+    display: flex;
+    gap: 20px;
 }
 @media only screen and (max-width: 600px){
     .container{
